@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
     private GameObject transition_game_over;
     private bool is_gaming;
 
+    public bool hard_mode;
+
     public bool game_over { get; set; }
     private float player_x_pos;
     private float player_y_pos;
