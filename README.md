@@ -1,2 +1,2 @@
-# floaty-cloud
-A game based on Google's Floaty-Cloud game
+# A game based on the Google game 'Floaty Cloud'.
+> Developed in Unity 😊
